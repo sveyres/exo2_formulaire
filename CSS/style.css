@@ -1,0 +1,27 @@
+
+form{
+    width: 35em;
+}
+
+label{
+    margin: 0.5em;
+    display: inline-block;
+    width: 10em;
+    }
+
+fieldset{
+    margin: 0.5em;
+    padding: 1em;
+    }
+
+section{
+    color: #ffffff;
+    background-color: grey;
+    padding: 1em;
+    padding-top: 1em;
+
+    }
+#submit {
+    float: right;
+
+}
